@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Electricer in Germany experience Blog`,
+    title: `Опыт электромонтажником в Германии`,
     author: {
-      name: `Ivan Che`,
-      summary: `who lives and works in Steinfurt building electricity.`,
+      name: ``,
+      summary: `Блог пишет Иван,который живёт и работает в Германии электромонтажником. tschi@mail.de`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      telegram: `@evan_che`,
+      telegram: ``,
     },
   },
   plugins: [
